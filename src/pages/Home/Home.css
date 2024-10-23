@@ -1,0 +1,19 @@
+.Home-container {
+  text-align: center;
+  border: 2px solid black;
+  background:wheat;
+}
+
+.main-Home-container {
+    display: flex;
+    justify-content: space-Around;
+    gap: 0.5rem;
+    margin-top: 0.5rem;
+    margin-bottom: 0.5rem;
+}
+
+.img-container img{
+    width: 50vh;
+    height: 50vh;
+}
+

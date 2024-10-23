@@ -1,0 +1,12 @@
+/* Layout.css */
+
+
+
+.Outlet-container-layout {
+    margin: 10px auto;
+    padding: 20px; /* กำหนด padding ตามที่ต้องการ */
+}
+
+.Navbar-container-layout {
+    margin-top: 10px;
+}

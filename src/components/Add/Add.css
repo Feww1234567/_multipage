@@ -1,0 +1,21 @@
+.Add-container{
+    border: 1px solid black;
+    border-radius: 5px;
+    padding: 0.5rem;
+    margin-bottom: 0.5rem;
+    background: gainsboro;
+}   
+
+.variable-container{
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    margin-top: 0.5rem;
+    gap: 0.5rem;
+}
+
+.bage-container{
+    border: 1px solid black;
+    display: flex;
+    justify-content: space-between;
+    gap: 0.5rem;
+}
